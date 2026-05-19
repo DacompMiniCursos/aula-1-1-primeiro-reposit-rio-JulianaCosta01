@@ -75,3 +75,35 @@ cd meu-projeto
 
 ---
 
+## 📁 Estrutura do Projeto
+
+```bash
+📦 meu-projeto
+ ┣ 📜 README.md
+```
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas.
+
+1. Faça um fork
+2. Crie uma branch
+3. Faça alterações
+4. Abra um Pull Request
+
+---
+
+# 👩‍💻 Autor
+
+Feito por Juliana Costa 💜
+
+GitHub:
+https://github.com/JulianaCosta01
+
+---
+
+# ⭐ Considerações Finais
+
+Projeto desenvolvido para fins educacionais e prática com Git e GitHub.

@@ -41,3 +41,28 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 ---
 
+## 📦 Como Instalar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DacompMiniCursos/aula-1-1-primeiro-reposit-rio-JulianaCosta01
+```
+
+Entre na pasta:
+
+```bash
+cd meu-projeto
+```
+
+---
+
+## ▶️ Como Utilizar
+
+1. Abra o projeto no VS Code
+2. Edite os arquivos
+3. Faça commits
+4. Envie para o GitHub
+
+---
+

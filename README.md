@@ -18,3 +18,26 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 - Merge
 - Organização de projetos
 
+---
+
+## ✨ Funcionalidades
+
+- ✅ Criação de branches
+- ✅ Commits organizados
+- ✅ Versionamento de código
+- ✅ README estilizado
+- ✅ Integração com GitHub
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|---|---|
+| Git | Controle de versão |
+| GitHub | Hospedagem |
+| Markdown | Documentação |
+| VS Code | Desenvolvimento |
+
+---
+

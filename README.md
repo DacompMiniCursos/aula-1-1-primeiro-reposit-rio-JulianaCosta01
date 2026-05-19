@@ -66,3 +66,12 @@ cd meu-projeto
 
 ---
 
+## 🌱 Melhorias Futuras
+
+- Adicionar interface gráfica
+- Melhorar responsividade
+- Implementar novas funcionalidades
+- Criar página inicial personalizada
+
+---
+

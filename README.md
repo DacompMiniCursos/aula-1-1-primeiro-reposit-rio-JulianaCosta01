@@ -1,1 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0cG_zi6a)
+# 🚀 Meu Primeiro Repositório
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green">
+  <img src="https://img.shields.io/badge/license-MIT-blue">
+  <img src="https://img.shields.io/badge/feito%20com-amor-red">
+</p>
+
+---
+
+## 🌐 Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de Git e GitHub, incluindo:
+
+- Versionamento
+- Criação de branches
+- Commits
+- Merge
+- Organização de projetos
+
